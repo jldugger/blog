@@ -16,7 +16,8 @@ CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
 STATIC_PATHS = ["pictures",]
 
-# notmyidea settings
+# theme settings
+THEME = "./borrowedidea/"
 DISQUS_SITENAME = "jlduggersblog"
 GOOGLE_ANALYTICS = "UA-10247293-1"
 CSS_FILE = "wide.css"
