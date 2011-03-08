@@ -11,7 +11,7 @@ ready in time for a conference I'm attending.
 
 The original RSS aggregation method has a number of benefits. It's 
 lightweight, and much harder to hack. So I've looked far and wide for
-a similar setup for blogging, and the winner was hands down [pelican][1].
+a similar setup for blogging, and the winner was hands down [Pelican][1].
 Like Planet Venus, Pelican is Python powered, and offers a clean sepearation
 of content and visual design to create static sites. 
 
@@ -22,7 +22,7 @@ tricky; Livejournal's export is unique and does only a month at a time.
 Luckily, I keep a backup of my entire blog in Liferea, which is sqlite3 backed.
 So I wrote a Python script to write each entry out into the Markdown format. 
 Stealing code from [html2markdown][4] was very handy, though it choked on a few 
-of my more insame markups. Def check out the homepage, because they author's 
+of my more insame markups. Def check out the homepage, because the author's 
 got an even more twisted workflow.
 
 Pelican is available via [git][5] or via pip. Deployment is very similar to before,
