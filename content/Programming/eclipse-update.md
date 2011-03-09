@@ -9,7 +9,7 @@ these bugs, hint, hint ;)
 
  Matthias Klose (doko) has [uploaded a new version of Eclipse][1] to Karmic.
 However, things could be better. Firstly, there's still 3.5 to contend with.
-Moreover, as the quote above indicates, the current package violates Debian
+Moreover, as the quote above hints at, the current package violates Debian
 Policy, in particular, [4.13: Convenience copies of code][2]:
 
 > Some software packages include in their distribution convenience copies of

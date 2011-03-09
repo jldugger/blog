@@ -208,7 +208,7 @@ between them and their computers.
 
    [10]: http://en.wikipedia.org/wiki/Directed_acyclic_graph
 
-   [11]: http://jldugger.livejournal.com/8866.html
+   [11]: http://pwnguin.net/the-popular-emergence-of-apt-git.html
 
    [12]: http://en.wikipedia.org/wiki/Dataflow_programming#Languages
 

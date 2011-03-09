@@ -56,7 +56,7 @@ SQLite design philosophy.
 Well, hopefully you'll find a lot of opaque embedded databases just got a bit
 easier to comprehend!
 
-   [1]: http://jldugger.livejournal.com/34036.html
+   [1]: http://pwnguin.net/generating-database-schema-with-sql-and-graphviz.html
 
    [2]: http://www.ch-werner.de/javasqlite/
 

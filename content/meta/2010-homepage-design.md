@@ -89,7 +89,7 @@ tool.
 
    [3]: http://intertwingly.net/code/venus/docs/config.html
 
-   [4]: http://jldugger.livejournal.com/33465.html
+   [4]: http://pwnguin.net/fun-and-profit-with-liferea-conversion-filters.html
 
    [5]: http://www.djangoproject.com/documentation/templates/
 

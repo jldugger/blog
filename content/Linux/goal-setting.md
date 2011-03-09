@@ -104,7 +104,7 @@ _should_.
 
    [6]: http://answers.launchpad.net/ubuntu
 
-   [7]: http://jldugger.livejournal.com/26434.html
+   [7]: http://pwnguin.net/group-password-management-suggestions.html
 
    [8]: http://keepass.info/
 

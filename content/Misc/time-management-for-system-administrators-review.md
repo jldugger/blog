@@ -89,7 +89,7 @@ gotten to the point where most sysadmins have a phone that performs as well as
 or better than the old Palm PDAs. The author makes a point about a
 _centralized calendar_ but all that's really called for is a _unified
 calendar_. For example, a unified view of your work calendar on Exchange and a
-personal calendar on CalDAV or Google. [My phone][8] supports local calendars
+personal calendar on CalDAV or Google. My phone supports local calendars
 and oddly, Exchange but not CalDAV. I really hope the next firmware release of
 Maemo adds CalDAV because it would solve this problem neatly. Failing that, I
 really think it's something for Meego to look at.
@@ -134,7 +134,7 @@ inclusion of UserFriendly clips, if you're a UNIX system administrator this
 book is a way great jump start your own routine. Time Management for System
 Administrators review
 
-   [1]: http://jldugger.livejournal.com/37431.html
+   [1]: http://pwnguin.net/coders-at-work-book-review.html
 
    [2]: http://ask.metafilter.com/151380/Youre-harshing-my-flow-manager
 
@@ -147,8 +147,6 @@ Administrators review
    [6]: everythingsysadmin.com
 
    [7]: http://en.wikipedia.org/wiki/Flow_%28psychology%29
-
-   [8]: http://jldugger.livejournal.com/tag/maemo
 
    [9]: http://en.wikipedia.org/wiki/Least_slack_time_scheduling
 

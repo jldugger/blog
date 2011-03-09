@@ -6,7 +6,7 @@ on the Internet.
 
 Example: [What I thought of][1] vs [What's already been done.][2]
 
-   [1]: http://jldugger.livejournal.com/3722.html
+   [1]: http://pwnguin.net/a-comparison-of-compression-schemes.html
 
    [2]: http://goodmerge.sourceforge.net/About.php
 

@@ -78,7 +78,7 @@ Or you can install it in Debian with
 Thanks to Michael Levin for his continuting work and to [UROP][11] for making
 it all possible!
 
-   [1]: http://jldugger.livejournal.com/8655.html
+   [1]: http://pwnguin.net/hello-planet-ubuntu.html
 
    [2]: http://risujin.org/cellwriter/
 

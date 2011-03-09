@@ -49,7 +49,7 @@ Team? The Eclipse Team?
 
    [1]: http://www.eclipse.org/org/press-release/20090624_galileo.php
 
-   [2]: http://jldugger.livejournal.com/6274.html
+   [2]: http://pwnguin.net/eclipse-disaster.html
 
    [3]: https://bugs.launchpad.net/ubuntu/+source/eclipse/+bug/123064?comments=all
 

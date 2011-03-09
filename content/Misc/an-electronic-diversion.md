@@ -103,5 +103,5 @@ Sensor Bar][9] for my [Wiimote+Ubuntu][10] setup. Mission accomplished.
 
    [9]: http://ca.rroll.net/2008/03/22/custom-built-usb-sensor-bar/
 
-   [10]: http://jldugger.livejournal.com/23955.html
+   [10]: http://pwnguin.net/a-cheap-media-remote.html
 

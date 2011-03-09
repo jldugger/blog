@@ -24,7 +24,7 @@ integrating the platform with Ubuntu. Does anyone know why or where these
 efforts have stalled out? Is it legal issues, build problems, or just too
 convenient already?
 
-   [1]: http://jldugger.livejournal.com/31187.html
+   [1]: http://pwnguin.net/an-electronic-diversion.html
 
    [2]: http://packages.ubuntu.com/gresistor
 

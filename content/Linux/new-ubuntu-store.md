@@ -18,7 +18,7 @@ One product suggestion: [Aluminum case badges.][8]
 
 ![][9]
 
-   [1]: http://jldugger.livejournal.com/14563.html
+   [1]: hhttp://pwnguin.net/ubuntu-gear.html
 
    [2]: http://www.ubuntu.com/news/us-based-shop
 

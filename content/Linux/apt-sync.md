@@ -27,13 +27,13 @@ But assuming we could use LZMA on squashfs, that would leave Ubuntu more
 free to ship packages built with an zsyncable package archive, but would still
 leave a conflict between network bandwidth and disk space.
 
-   [1]: http://jldugger.livejournal.com/6115.html
+   [1]: http://pwnguin.net/a-rebuttal-to-apt-rsync.html
 
-   [2]: http://jldugger.livejournal.com/6667.html
+   [2]: http://pwnguin.net/revisiting-apt-rsync.html
 
    [3]: https://edge.launchpad.net/apt-sync
 
-   [4]: http://jldugger.livejournal.com/3722.html
+   [4]: hhttp://pwnguin.net/a-comparison-of-compression-schemes.html
 
    [5]: https://blueprints.edge.launchpad.net/ubuntu/+spec/dpkg-lzma
 

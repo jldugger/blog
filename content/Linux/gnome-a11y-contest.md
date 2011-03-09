@@ -117,7 +117,7 @@ about how GNOME might ever integrate their work. And a cheap price to get the
 ball rolling on head tracking within GNOME. If we're lucky, in some distant
 future we might see eye tracking as well!
 
-   [1]: http://jldugger.livejournal.com/13395.html
+   [1]: http://pwnguin.net/introducing-money-into-open-source.html
 
    [2]: http://www.gnome.org/projects/outreach/a11y/
 
