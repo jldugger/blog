@@ -8,7 +8,7 @@ probably buff right out.
 Apparently modern bumpers are made of plastic, and can be repaired with a heat
 gun. [Witness][2]:
 
-![before and after][1]
+[![before and after][1]][2]
 
    [1]: http://pwnguin.net/albums/d/819-2/subaru-before-after.jpg
    [2]: http://pwnguin.net/albums/v/Subaru/subaru-before-after.jpg.html
