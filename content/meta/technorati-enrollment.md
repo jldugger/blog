@@ -1,7 +1,5 @@
-Title: Technorati enrollment
-Date: 2008-07-12
+Title: Technorati re-enrollment
+Date: 2010-3-10
 
-[Technorati Profile][1]
-
-   [1]: http://technorati.com/claim/pct2dsxw8h
+W58GYGH7ENPK
 
