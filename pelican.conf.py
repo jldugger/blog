@@ -21,6 +21,11 @@ THEME = "./borrowedidea/"
 DISQUS_SITENAME = "jlduggersblog"
 GOOGLE_ANALYTICS = "UA-10247293-1"
 CSS_FILE = "wide.css"
+
+MENUITEMS = (('Projects','http://pwnguin.net/websvn/'),
+             ('Albums','http://pwnguin.net/albums/')
+            )
+
 LINKS = (('John Cantrell', 'http://notsoevil.net'),
             ('Toby Murray', 'http://ksmapper.blogspot.com/'),
             ('sgstair', "http://blog.akkit.org/"),
