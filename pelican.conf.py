@@ -23,7 +23,7 @@ GOOGLE_ANALYTICS = "UA-10247293-1"
 CSS_FILE = "wide.css"
 
 MENUITEMS = (('Projects','//pwnguin.net/websvn/'),
-             ('Albums','//pwnguin.net/albums/')
+             ('Photos','//pwnguin.net/albums/')
             )
 
 LINKS = (('John Cantrell', 'http://notsoevil.net'),
