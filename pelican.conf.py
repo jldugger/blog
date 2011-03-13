@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
 AUTHOR = u'Justin Dugger'
 SITENAME = u"Justin Dugger" 
+# SITESUBTITLE = 'a blog of heartbreaking genius and staggering work'
 SITEURL = '//pwnguin.net'
 
 OUTPUT_PATH = "/var/www/www.pwnguin.net/"
 PDF_GENERATOR = False
+# PDF_PROCESSOR = ? #
 REVERSE_CATEGORY_ORDER = True
 LOCALE = 'en_US.utf8'
 
@@ -22,6 +24,7 @@ DISQUS_SITENAME = "jlduggersblog"
 GOOGLE_ANALYTICS = "UA-10247293-1"
 CSS_FILE = "wide.css"
 
+# DISPLAY_PAGES_ON_MENU = True # (default)
 MENUITEMS = (('Projects','//pwnguin.net/websvn/'),
              ('Photos','//pwnguin.net/albums/')
             )
@@ -34,3 +37,7 @@ LINKS = (('John Cantrell', 'http://notsoevil.net'),
 SOCIAL = (('twitter', 'http://twitter.com/WildPwnguin'),
           )
 
+# GITHUB_URL = ''
+# GITHUB_POSITION = "left" # (default)
+
+# TWITTER_USERNAME = '' 
