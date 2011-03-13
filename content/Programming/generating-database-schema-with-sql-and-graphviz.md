@@ -144,7 +144,7 @@ please let me know how!
 
    [12]: http://www.sqlite.org/cvstrac/wiki?p=ForeignKeyTriggers
 
-   [13]: http://pwnguin.net/photos/liferea_schema.png
+   [13]: //pwnguin.net/photos/liferea_schema.png
 
    [14]: http://github.com/vidarh/diagram-tools
 

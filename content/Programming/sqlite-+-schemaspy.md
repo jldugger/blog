@@ -56,15 +56,15 @@ SQLite design philosophy.
 Well, hopefully you'll find a lot of opaque embedded databases just got a bit
 easier to comprehend!
 
-   [1]: http://pwnguin.net/generating-database-schema-with-sql-and-graphviz.html
+   [1]: //pwnguin.net/generating-database-schema-with-sql-and-graphviz.html
 
    [2]: http://www.ch-werner.de/javasqlite/
 
    [3]: http://sourceforge.net/projects/schemaspy/files/
 
-   [4]: http://pwnguin.net/albums/d/795-2/relationships_implied_compact.png
+   [4]: //pwnguin.net/albums/d/795-2/relationships_implied_compact.png
 
-   [5]: http://pwnguin.net/albums/v/blog/relationships_implied_compact.png.html
+   [5]: //pwnguin.net/albums/v/blog/relationships_implied_compact.png.html
 
    [6]: http://www.sqlite.org/faq.html#q26
 

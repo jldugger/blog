@@ -22,7 +22,7 @@ succeeds!
 (This is why I always say everything you've ever thought of has already
 been done on the Internet.)
 
-   [1]: http://pwnguin.net/cooking-for-everybody.html
+   [1]: //pwnguin.net/cooking-for-everybody.html
 
    [2]: http://clam.iua.upf.edu/screenshots.html
 

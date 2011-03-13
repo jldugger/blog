@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 AUTHOR = u'Justin Dugger'
 SITENAME = u"Justin Dugger" 
-SITEURL = 'http://pwnguin.net'
+SITEURL = '//pwnguin.net'
 
 OUTPUT_PATH = "/var/www/www.pwnguin.net/"
 PDF_GENERATOR = False
@@ -22,8 +22,8 @@ DISQUS_SITENAME = "jlduggersblog"
 GOOGLE_ANALYTICS = "UA-10247293-1"
 CSS_FILE = "wide.css"
 
-MENUITEMS = (('Projects','http://pwnguin.net/websvn/'),
-             ('Albums','http://pwnguin.net/albums/')
+MENUITEMS = (('Projects','//pwnguin.net/websvn/'),
+             ('Albums','//pwnguin.net/albums/')
             )
 
 LINKS = (('John Cantrell', 'http://notsoevil.net'),

@@ -11,7 +11,7 @@ DebianImportFreeze has come and gone, but Scott appears to be on top of
 things, having just [filed a sync request][4] a few hours ago to pull in a few
 more changes. If he keeps that pace up, he'll make MOTU in no time ;)
 
-   [1]: http://pwnguin.net/why-isnt-arduino-in-debian-ubuntu.html
+   [1]: //pwnguin.net/why-isnt-arduino-in-debian-ubuntu.html
 
    [2]: http://arduino.cc
 

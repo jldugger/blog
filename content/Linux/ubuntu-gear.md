@@ -10,9 +10,9 @@ Shipping itself adds nearly 50% to the price!
 
 UPDATE: fixed the shop link!
 
-   [1]: http://pwnguin.net/gnome-a11y-contest.html
+   [1]: //pwnguin.net/gnome-a11y-contest.html
 
-   [2]: http://pwnguin.net/introducing-money-into-open-source.html
+   [2]: //pwnguin.net/introducing-money-into-open-source.html
 
    [3]: https://shop.canonical.com/index.php?currency=USD&cPath=14
 

@@ -76,7 +76,7 @@ filter discovery for RSS!
 
    [2]: http://www.ted.com/
 
-   [3]: http://pwnguin.net/photos/conversionfilter.png
+   [3]: //pwnguin.net/photos/conversionfilter.png
 
    [4]: http://kiza.kcore.de/software/snownews/snowscripts/extensions/
 
@@ -86,5 +86,5 @@ filter discovery for RSS!
 
    [7]: http://xmlstar.sourceforge.net/
 
-   [8]: http://pwnguin.net/photos/Liferea-Subscription.png
+   [8]: //pwnguin.net/photos/Liferea-Subscription.png
 

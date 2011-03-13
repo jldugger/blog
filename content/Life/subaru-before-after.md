@@ -10,5 +10,5 @@ gun. [Witness][2]:
 
 [![before and after][1]][2]
 
-   [1]: http://pwnguin.net/albums/d/819-2/subaru-before-after.jpg
-   [2]: http://pwnguin.net/albums/v/Subaru/subaru-before-after.jpg.html
+   [1]: //pwnguin.net/albums/d/819-2/subaru-before-after.jpg
+   [2]: //pwnguin.net/albums/v/Subaru/subaru-before-after.jpg.html

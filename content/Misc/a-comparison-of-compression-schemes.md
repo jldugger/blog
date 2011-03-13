@@ -346,5 +346,5 @@ comparable compression ratios.][3]
 
    [2]: http://www.mininova.org/det/1102879
 
-   [3]: http://pwnguin.net/addendum.html
+   [3]: //pwnguin.net/addendum.html
 

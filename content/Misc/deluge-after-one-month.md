@@ -39,7 +39,7 @@ writable. I'm not sure how to best analyze memory usage. Comments welcome ;)
 
 For me now, Deluge is the app to beat.
 
-   [1]: http://pwnguin.net/a-plan-for-anime.html
+   [1]: //pwnguin.net/a-plan-for-anime.html
 
    [2]: deluge-torrent.org/
 

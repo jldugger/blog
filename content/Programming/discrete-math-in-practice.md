@@ -58,7 +58,7 @@ consideration, [gPlanarity][6] (package name: gplanarity).
 
    [1]: http://jucato.org/blog/some-short-updates/
 
-   [2]: http://pwnguin.net/cooking-for-everybody.html
+   [2]: //pwnguin.net/cooking-for-everybody.html
 
    [3]: http://en.wikipedia.org/wiki/Object_Constraint_Language
 

@@ -73,7 +73,7 @@ sessions.
 
 And of course, I need to get out more. Maybe when it's warmer.
 
-   [1]: http://pwnguin.net/time-management-for-system-administrators-review.html
+   [1]: //pwnguin.net/time-management-for-system-administrators-review.html
 
    [2]: https://services.mozilla.com/
 
