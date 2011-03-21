@@ -24,17 +24,17 @@ been done on the Internet.)
 
    [1]: //pwnguin.net/cooking-for-everybody.html
 
-   [2]: http://clam.iua.upf.edu/screenshots.html
+   [2]: http://clam-project.org/screenshots.html
 
-   [3]: http://clam.iua.upf.edu/about.html
+   [3]: http://clam-project.org/wiki/Frequenly_Asked_Questions#What_is_CLAM.3F
 
-   [4]: http://iua-share.upf.es/wikis/clam/images/8/83/NetEditQt4-PortMonitor-SpectralPeaks.png
+   [4]: http://clam-project.org/wiki/images/b/b7/NetEditQt4-SpectralNetworkWithControlSenders.png
 
-   [5]: http://iua-share.upf.edu/wikis/clam/index.php/Network_Editor_tutorial
+   [5]: http://clam-project.org/wiki/Network_Editor_tutorial
 
    [6]: http://www.ohloh.net/projects/clam
 
-   [7]: http://iua-share.upf.edu/wikis/clam/index.php/GSoC/Network_scalability_and_Blender_integration
+   [7]: http://clam-project.org/wiki/GSoC/Network_scalability_and_Blender_integration
 
    [8]: http://dadaisonline.blogspot.com/2008/06/too-much.html
 
