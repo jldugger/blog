@@ -94,7 +94,6 @@ printing:
 
  ![png conversion for the web][13]
 
-
 You can then load that up in Inkscape and target whatever paper you've got or
 tweak the diagram. We have some 11x17 ledger paper at work that showcases
 these diagrams very nicely. Since SVG output is also XML, you could run some
@@ -109,10 +108,9 @@ SchemaSpy quality diagrams, although the two projects use different (possibly
 compatible) licensing.
 
 
- ### Conclusions
+### Conclusions
 
-
- Right now it seems like SchemaSpy is a great tool for documenting your server
+Right now it seems like SchemaSpy is a great tool for documenting your server
 oriented database; if you generate documentation for your project it's worth
 having a look at adding it to the doc target. On the other hand, SQLite
 support is not as robust, even as adoption is growing. The newly announced FK
