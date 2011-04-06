@@ -18,7 +18,7 @@ are quadratic in Web 2.0 land.
 
 But beyond that there were interesting talks on classloaders, static analysis 
 for performance anti-patterns, how the [JVM abstraction makes compliance 
-difficult to optimize], and the virtues of Dtrace. Many insisted the first 
+difficult to optimize][2], and the virtues of Dtrace. Many insisted the first 
 place to look for dramatic fixes was not code, but configuration and hardware.
 We wound up scheduling time with one of the vendor's freemium tools next week 
 to debug some terrible performance problems in testing environments not 
