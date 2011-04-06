@@ -17,8 +17,8 @@ increased load on twitter scales even more poorly. Because apparently queues
 are quadratic in Web 2.0 land.
 
 But beyond that there were interesting talks on classloaders, static analysis 
-for performance anti-patterns, how the JVM abstraction makes compliance 
-difficult to optimize, and the virtues of Dtrace. Many insisted the first 
+for performance anti-patterns, how the [JVM abstraction makes compliance 
+difficult to optimize], and the virtues of Dtrace. Many insisted the first 
 place to look for dramatic fixes was not code, but configuration and hardware.
 We wound up scheduling time with one of the vendor's freemium tools next week 
 to debug some terrible performance problems in testing environments not 
@@ -36,3 +36,4 @@ benevolent planning. Otherwise, lots of emphasis on The Cloud, and Java 7, and
 quite a bit of Open Source as a feature. 
 
    [1]: http://javasymposium.techtarget.com/
+   [2]: http://www.youtube.com/watch?v=uL2D3qzHtqY

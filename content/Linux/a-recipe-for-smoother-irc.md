@@ -47,9 +47,9 @@ tools to handle that latency is nice.
   4. Hit Control-A followed by D to detach from the screen session. Irssi will
 continue running until you reattach
 
-  5. set up an GNOME launcher like the following:
+  5. set up an GNOME launcher with the following command:
 
-[![Launcher Settings][1]][2]
+  `gnome-terminal -e "ssh -t host.com screen -d -r"`
 
   6. Click the icon, authenticate with the ssh server and presto, **IRC as if
 you never left**
@@ -84,9 +84,6 @@ relatively small and slow channels. If you need to shut down your local
 computer, just hit Control+A D to detach. On busy channels like #ubuntu, it's
 wise to use nick: highlighting to sort out your conversation from the others.
 
-   [1]: http://farm4.static.flickr.com/3233/2804667136_c993494cdb_o.png
-
-   [2]: http://www.flickr.com/photos/jldugger/2804667136/ (Launcher Settings by jld5445, on Flickr)
 
    [3]: http://sial.org/howto/openssh/publickey-auth/
 
