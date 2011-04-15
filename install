@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# generate and install content
+pelican ./content/ -s pelican.conf.py -k
+
+# minify css
+
+for css in `find /var/www/www.pwnguin.net/theme/css/ -name *.css`
+do
+	cat $css | cssmin | sponge $css
+done
