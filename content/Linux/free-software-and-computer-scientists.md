@@ -45,15 +45,15 @@ to Linus Torvalds starting his own OS. It's also a bit rude to charge students
 tuition for the privilege of replacing software you need, and then demand that
 rights to that labor. Even GRAs are paid tuition or stipend!
 
-A positive example: [Cellwriter][4] paid the student an Undergraduate Research
-grant, with exceptional results. But in the longer term, who owns the
-responsibility for maintaining these programs? Undergraduates tend to graduate
-and land jobs, rarely to continue their work on a capstone course. Leaving the
-life-span of a project in their hands works fine for the self-selected, but
-requiring CS students to work on someone else's problem will only work until
-grades are assigned. I remember my own capstone project, and while
-instructive, I don't think anyone in the team wants to see that subject or
-code ever again.
+A positive example: [Cellwriter][4]. [UROP][7] paid the student an 
+Undergraduate Research grant, with exceptional results. But in the longer 
+term, who owns the responsibility for maintaining these programs? 
+Undergraduates tend to graduate and land jobs, rarely to continue their work 
+on a capstone course. Leaving the life-span of a project in their hands works 
+fine for the self-selected, but requiring CS students to work on someone 
+else's problem will only work until grades are assigned. I remember my own 
+capstone project, and while instructive, I don't think anyone in the team 
+wants to see that subject or code ever again.
 
 Directing CS departments at open source's deficiencies is a bit like asking EE
 professors to wire your campus, or ArchiE professors to design your buildings.
@@ -92,3 +92,4 @@ classes.
 
    [6]: http://osuosl.org/about-osuosl
 
+   [7]: http://www.urop.umn.edu/
