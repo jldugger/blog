@@ -45,5 +45,5 @@ distracts the eye away from the monitor I _was_ looking at. There doesn't seem
 to be a configuration change one can make, but a clever user on AskUbuntu has
 [found a makeshift solution][2]. 
 
-     [1]: http://en.wikipedia.org/wiki/Flow_%28psychology%29
-     [2]: http://askubuntu.com/questions/33946/disable-notifications-on-track-change
+   [1]: http://en.wikipedia.org/wiki/Flow_%28psychology%29
+   [2]: http://askubuntu.com/questions/33946/disable-notifications-on-track-change
