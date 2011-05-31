@@ -1,14 +1,14 @@
 Title: May Goals Update
 Date: 2011-05-31
 
-Been a few months since I've set my goals for 2011, and now's a good time to
-reflect on progress and life.
+Been a few months since I've set my goals for 2011, and the holiday's a good 
+time to reflect on progress and life.
 
 ### Goals for 2011 ###
    
-The website's still doing okay. I did waste a bit of time drafting a still
-unpublished guide on using grep to solve NPR's Sunday word puzzles, because I
-hate word puzzles with a passion and wanted to learn more about grep. I
+The website's still doing okay. I did waste a bit of time drafting an
+(unpublished) guide on using grep to solve NPR's Sunday word puzzles, because 
+I hate word puzzles with a passion and wanted to learn more about `grep`. I
 replaced my stats tool with awstats, to complement GA. Revenue is still tiny,
 but I still haven't added Adsense to the blog. And until traffic is high 
 enough for A/B experiments, there's no point in "optimizing."
