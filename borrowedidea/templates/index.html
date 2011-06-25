@@ -2,7 +2,7 @@
 {% block content_title %}{% endblock %}
 {% block content %}        
 {% if articles %}
-{% for article in articles %}        
+{% for article in articles[0:FRONT_PAGE_ITEM_COUNT] %}        
     {% if loop.index == 1 %}
         <aside id="featured" class="body"><article>
                 <h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url
