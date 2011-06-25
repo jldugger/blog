@@ -1,4 +1,4 @@
-Title: New Homepage Design
+Title: (Old) Homepage Design
 Date: 2010-03-12
 
 I've decided my old homepage was bad enough to revisit now that I've got a bit
