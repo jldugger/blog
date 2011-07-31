@@ -1,7 +1,8 @@
-Title: May Goals Update
+Title: Mid 2011 Update
 Date: 2011-07-31
 
-Over halfway through 2011, so it's time to revisit my goals again.
+Over halfway through 2011, so it's time to revisit my goals again. I really
+should post more often.
 
 ### Personal Website ###
    
