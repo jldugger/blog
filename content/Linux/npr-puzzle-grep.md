@@ -1,9 +1,9 @@
 Title: Solving the Sunday Puzzle with coreutils
-Date: 2011-05-16
+Date: 2011-08-14
 
 Not too long ago, a puzzler admitted to solving the NPR Sunday Puzzle with a
 computer. Since I hate word puzzles quite a bit, I'd taken similar steps in the
-past. For example, this recent challenge: 
+past. For example, [this recent challenge][4]: 
 
 Fill in the 4x4 square crossword with common uncapitalized words, using no 
 letter more than once:
@@ -114,3 +114,4 @@ it from here as an exercise to the reader to solve the entire puzzle.
    [1]: http://www.gnu.org/s/coreutils/
    [2]: http://www.regular-expressions.info/brackets.html
    [3]: http://swtch.com/~rsc/regexp/regexp1.html
+   [4]: http://www.npr.org/2011/05/15/136315586/as-a-matter-of-course
