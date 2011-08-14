@@ -1,4 +1,4 @@
-Title: Solving the Sunday Puzzle with coreutils
+Title: Solving the Sunday Puzzle with coreutils & grep
 Date: 2011-08-14
 
 Not too long ago, a puzzler admitted to solving the NPR Sunday Puzzle with a
@@ -18,6 +18,10 @@ letter more than once:
 My secret weapon? [GNU coreutils][1]. Regex are a great tool, but I rarely have
 to use some of the more obscure features, which hurts on the occasions where
 they're called for. So the NPR puzzle can be a good way to practice and learn!
+
+*Edit*: Commenter hggdh points out that the heavy worker here is grep, which is not
+part of coreutils. If your OS vendor doesn't provide grep, [GNU grep][5] sounds like
+a suitable replacement.
 
 1. I'm using the American English dictionary provided by Ubuntu 
 `/usr/share/dict/words`. The format of this file is one word per line. Every 
@@ -141,3 +145,4 @@ it from here as an exercise to the reader to solve the entire puzzle.
    [2]: http://www.regular-expressions.info/brackets.html
    [3]: http://swtch.com/~rsc/regexp/regexp1.html
    [4]: http://www.npr.org/2011/05/15/136315586/as-a-matter-of-course
+   [5]: http://www.gnu.org/s/grep/
