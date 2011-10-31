@@ -3,9 +3,9 @@ Date: 2011-10-25
 
 Once again, it's demonstrated that sitting around a table drafting
 policy fails the common sense test. [Chronicle of Higher Education][1]
-reports that Sam Houson State University decided to ask all members for
-username and passwords. Their [published policy][2] still does. My
-favorite part:
+reports that Sam Houson State University decided to ask all members 
+of their social media portal for username and passwords. Their 
+[published policy][2] still does. My favorite part:
 
 > Do not change any passwords issued with the accounts. If there is a problem
 > or compromise of the accounts security, contact the Marketing and Communications
