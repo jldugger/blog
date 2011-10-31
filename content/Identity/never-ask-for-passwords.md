@@ -12,7 +12,7 @@ favorite part:
 > Social Media Representatives. They will issue you a new password. *Do not share
 > login and password information with unauthorized individuals*.
 
-Most social media sites support OAuth, which allows apps to read and write 
+Most social media sites support [OAuth][3], which allows apps to read and write 
 to your feed without sharing an underlying username/password. Moreover, if all 
 you're doing is mere aggregation, there's no need to ask for this information.
 You automate censors, you implement a blacklist, and you move on. There's no need
@@ -21,3 +21,4 @@ feed you can find.
 
    [1]: http://chronicle.com/blogs/wiredcampus/universitys-social-media-policy-draws-cries-of-censorship/33898
    [2]: http://shsu.edu/campus_life/social-universe/pdf/50_08_SHSU_PolicyManual_R04.pdf
+   [3]: http://oauth.net/
