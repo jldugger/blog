@@ -21,6 +21,6 @@ while longer yet.
 
 But for now, I think it's time to enjoy the weekend.
 
-    [1]: http://osuosl.org/about
+   [1]: http://osuosl.org/about
     
     
