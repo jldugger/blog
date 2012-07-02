@@ -2,8 +2,8 @@ Title: Open Source Bridge Wrapup
 Date: 2012-07-01
 
 Friday marked the end of Open Source Bridge. Just about the best introduction
-to Portland culture as you can find. Vegan lunches, voodoo donut catering, 
-lunch truck friday, and rock and roll pipe organing in the Unitarian's 
+to Portland culture as you can find. Vegan lunches, Voodoo Donut catering, 
+lunch truck friday, and rock and roll pipe organists in the Unitarian's 
 sanctuary. 
 
 [The][1] [keynotes][2] [were][3] pretty cool. I'd seen Fenwick's presentation
@@ -18,10 +18,10 @@ Probably the most useful talk I attended was Laura Thompson's presentation on
 [Mozilla's Crash Reporting service][5], powered by [Socorro][4]. A few of the
 projects the OSL hosts are desktop apps and collecting crash data might be
 a good engineering tool win for them. A lot of embedded hardware talks that
-would have been interesting, but not directly relevant to the interests of
-the OSL. Hopefully they'll be up as recordings.
+would have been interesting, but not directly relevant to the needs of the 
+OSL. Hopefully they'll be up as recordings soon. 
 
-OSL was also well represented as well in the speaker's ranks: we ran five 
+The OSL was also well represented as well in the speaker's ranks: we ran five 
 sessions during the main conference, and two during the Friday unconference.
 I think next year it would be a good idea to encourage our students to
 participate as volunteers; getting them facetime with speakers and the
