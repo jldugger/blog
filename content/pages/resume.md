@@ -9,10 +9,20 @@ Web: [pwnguin.net][2] | [LinkedIn Profile][1]
 
 # Professional Experience #
 
+Senior Systems Architect
+[Open Source Lab][4], Oregon State University
+Corvallis, OR
+March 2012 - Current
+
+Support open source projects by providing hosting and colocation
+services. Help support the Oregon Virtual School District, a
+statewide Moodle and Drupal hosting service for school districts. 
+Manage and train the next generation of system administrators.
+
 Java Application Developer
 [Office of Mediated Education][3], Kansas State University
 Manhattan, KS
-November 2010 - Present
+November 2010 - February 2012
 
 Analyze, maintain, and write Java applications for campus wide identity
 management. Respond to user trouble reports, document bugs and produce patches
