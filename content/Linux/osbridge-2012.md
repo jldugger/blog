@@ -30,8 +30,8 @@ talk on using GNUCash for personal finance; the turnout was pretty good,
 given how many people were still at the food carts. I should have recorded 
 it to self-critique and improve.
 
-The "after party" on Thursday was nice. Lance won the 2012 Outsanding Open 
-Source Citizen award, which is great, because he deserves recongition for 
+The "after party" on Thursday was nice. Lance won the [2012 Outsanding Open 
+Source Citizen award][6], which is great, because he deserves recongition for 
 handling the turmoil at the OSL over the past year. But now I've got to 
 figure out my plan meet or beat that for next year. No small task.
 
@@ -43,4 +43,4 @@ Next up is catching up back at the Lab, and then OSCON!
    [3]: http://www.youtube.com/watch?v=_OczqFEcUTA
    [4]: https://github.com/mozilla/socorro
    [5]: https://crash-stats.mozilla.com
-   
+   [6]: https://twitter.com/ramereth/status/218562778535952384/photo/1
