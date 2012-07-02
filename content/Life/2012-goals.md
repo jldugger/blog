@@ -12,7 +12,7 @@ In January I published five goals:
 Arguably I accomplished 4 of them. Obviously this isn't 5 for 5, and the main 
 reason is that I spent more time *really* analyzing my personal finances. I've 
 been keeping personal books since 2007, but this year I had some unexpected
-family oblications as motivation to really bring it up a notch. I dug into 
+family obligations as motivation to really bring it up a notch. I dug into 
 the local library collection on personal finance in August, and I've basically 
 reached the point where books just repeat themselves. The mundane stuff has
 been automated for quite a while, so I can just focus on planning, analyzing 
@@ -20,7 +20,7 @@ and tweaking. I've used 2011's last paycheck to work up tax returns and found
 a bug in my annual budget spreadsheet's tax calculations. 
 
 To put the knowledge to the test, I started asking and answering questions on 
-reddit and StackExchange's money subsite, where I found a couple of neat 
+reddit and StackExchange's money subsites, where I found a couple of neat 
 options university employees that I should write a full post on. The bad news 
 is there's so many small tricks to consider, it can soak up as much time as you
 let it. But I did actually make some changes, so it's not a total analysis 
