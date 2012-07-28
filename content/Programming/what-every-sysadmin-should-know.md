@@ -6,7 +6,8 @@ Date: 2012-07-24
 System administration is more than clicking Next, [cutting your fingers on cagenuts][3], 
 and 3am pager alerts. Sysadmins can borrow many of the same skills and tools that 
 programmers use daily to make themselves more productive, and build a deeper 
-understanding of the systems they manage. 
+understanding of the systems they manage. The following five skills are perhaps the
+most obvious overlaps between our two roles:
 
 **Version Control.**  Be able to generate, read and apply patches. In 2012, it's vital that 
 your version control system present a repo wide version history. You should be able to 
