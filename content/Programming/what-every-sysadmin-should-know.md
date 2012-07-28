@@ -5,8 +5,8 @@ Date: 2012-07-24
 
 System administration is more than clicking Next, [cutting your fingers on cagenuts][3], 
 and 3am pager alerts. Sysadmins can borrow many of the same skills and tools that 
-programmers use daily can be to make themselves more productive, and build a deeper 
-understanding of the systems they manage. So without further ado, the list:
+programmers use daily to make themselves more productive, and build a deeper 
+understanding of the systems they manage. 
 
 **Version Control.**  Be able to generate, read and apply patches. In 2012, it's vital that 
 your version control system present a repo wide version history. You should be able to 
@@ -14,12 +14,13 @@ write descriptive changelogs and why you want them. Whatever your technology (I 
 [git][5] by default), know how to search the repository's logs for keywords and time frames.
 
 **Scripting.** Do something once and be on your way. Do it twice or more, do it once then 
-write a script. If you're not using [Powershell][6] or bash, you're working too hard.
+write a script. To paraphrase Tom Limoncelli, if you're not using [Powershell][6] or bash, 
+you're working too hard.
 
 **Debugging.** Know how to read a stack trace and how to report relevant errors to your 
 software support contact. Documenting the error is easy and helpful, but knowing how to 
-fix it takes a lot of investment in reading the code base. Do the part that's easy for you, 
-and let the devs handle the part that's easy for them.
+fix it takes a lot of investment in reading a specific code base. Do the part that's easy 
+for you, and let the devs handle the part that's easy for them.
 
 **Testing.** Repurpose integration tests for [continuous integration testing][4]. Used in 
 conjunction with version control and testing, you have a strong idea of what may have gone 
@@ -30,11 +31,11 @@ mail. Change is core to system administration, not just an agenda item at the we
 meeting. Do not let Change Management degrade into political battles or displays of 
 bureaucratic power.
 
-**Study Cryptography.** System administrators are charge of networked resources; adding 
+**Study Cryptography.** System administrators are charge of networked resources; baking in
 security as a final step is somewhere between impossible and a very expensive proposition. 
-Given how central the role is to . Understanding public key cryptography, password 
-handling practices, and encryption in general are be extremely valuable in debugging the 
-metric.
+Given how much of the sysadmin role involves acting as a trusted third party, understanding 
+public key cryptography, password handling practices, entropy and encryption in general are 
+valuable skills in debugging, performance tuning and setting policy.
 
 
  [1]: http://serverfault.com/a/11167/919
