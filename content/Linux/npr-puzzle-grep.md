@@ -109,23 +109,23 @@ We now write a different regex without negations to get the same list.
 Now we build a similar regex for 2 down. Adding in what we know about it's 
 intersection with 2 across (cmpuvx) is the sudoku like step:
 
-    laptop:~$ cat /usr/share/dict/words | grep -v "'" | grep "^a[cmpuvx][^nagsewt][^nagsewt]$" | grep -vE "([a-z]).*(\1)"
+`laptop:~$ cat /usr/share/dict/words | grep -v "'" | grep "^a[cmpuvx][^nagsewt][^nagsewt]$" | grep -vE "([a-z]).*(\1)"`
 
-    achy
+    `achy`
 
-    acid
+    `acid`
 
-    amid
+    `amid`
 
-    amok
+    `amok`
 
-    avid
+    `avid`
 
 We rewrite this one as 
 
-    laptop:~$ cat /usr/share/dict/words | grep -v "'" | grep "^a[cmv][hio][dky]$" | grep -vE "([a-z]).*(\1)" | wc -l
+`laptop:~$ cat /usr/share/dict/words | grep -v "'" | grep "^a[cmv][hio][dky]$" | grep -vE "([a-z]).*(\1)" | wc -l`
 
-    5
+    `5`
 
 Applying the same logic to 3 down yields `"^g[ir][lriu][bdlmp]$"`, and 4 down 
 yields `"^s[lu][cilmoru][bdfhkmopr]$"`. 
