@@ -18,9 +18,9 @@ electronic multitool. But this digital convergence comes at a price: it's
 also a large Single Point of Failure. It's a bit awkward falling back to using
 a spare Nintendo DS as your wake up alarm.
 
-===
+
 Thorns
-===
+======
 
 Beyond the aggregate, there are some specific pain points that were never
 adaquately solved:
@@ -54,9 +54,9 @@ lense cover. The relatively rapid Meego announcement dramatically
 terminated any interest in the platform, so few were surprised when the
 the "burning platform" memo was leaked.
 
-===
+
 Roses
-===
+=====
 
 One thing the Maemo platform did right, however, was their plugin system.
 Rather than a Flickr app and a Picasa app and so on, almost all basic apps
@@ -79,9 +79,9 @@ plenty of people, wifi is available in the home and the office, so it's not
 a huge a sacrifice as it might seem. Combined with Skype and other VOIP
 apps, it's not super hard to get by with a 100 dollar a year voice only plan.
 
-===
+
 Moving on
-===
+=========
 
 Clearly Maemo/Meego are dead and buried. Jolla has a huge market share
 disadvantage; every minute they don't have a device in user's hands is a
