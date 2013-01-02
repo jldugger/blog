@@ -1,4 +1,4 @@
-Title: PuppetConf 2011
+Title: PuppetConf 2012
 Date: 2012-09-30
 
 Recovered from the post-con crash a while ago, so it's time to write up some thoughts.
