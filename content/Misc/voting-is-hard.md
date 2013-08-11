@@ -9,21 +9,21 @@ comparison, and it's a fundamentally misguided analogy.
 
 To describe why voting is hard it's nessecary to discuss the capacity for evil
 in the system. For much of America's history, voting was done by voice (_viva
-voce_), in public. You were might be hassled by party members on your way to
+voce_), in public. You might be hassled by party members on your way to
 vote, who would attempt to intimidate or bribe you. You then stood before a
 judge and declared your vote, or later, turned in a paper ballot. You can
 imagine the kind of pettiness that might ensue after you vote against the
 interests of your employer or landlord. Eventually this behavior became
 commonplace enough that a voting system from Australia was imported: secret
-ballot. You voted in privacy, expected to be shielded from the vice grips of
+ballot. You voted in privacy, expecting to be shielded from the vice grips of
 political machines.
 
 A few problems arose. Ballot stuffing and repeat voting was easy to stop by
 handing out a ballot only once to registered voters. **Chain voting**
 represented a much harder threat to solve. In chain voting, one person needs
-to smuggle out a single official ballot. Our villain then votes the ballot,
-and offers to people along with a promise to buy an unmarked ballot from them.
-In this way you can buy up a series of votes, based on that one smuggled
+to smuggle out a single official ballot. Our villain then marks the ballot,
+and offers it to people along with a promise to buy an unmarked ballot from 
+them. In this way you can buy up a series of votes, based on that one smuggled
 ballot.
 
 The solution here gets very tricky. You need to make sure that the ballot
