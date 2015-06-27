@@ -4,6 +4,7 @@ SITENAME = u"Justin Dugger"
 # SITESUBTITLE = 'a blog of heartbreaking genius and staggering work'
 SITEURL = '//pwnguin.net'
 
+PATH = './content/'
 OUTPUT_PATH = "/var/www/www.pwnguin.net/"
 PDF_GENERATOR = False
 # PDF_PROCESSOR = ? #
