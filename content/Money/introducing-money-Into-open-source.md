@@ -25,6 +25,24 @@ Jeff is researching what has already been done, though I suppose he's not got
 
 ### Ubuntu ###
 
+A familiar infusion of cash into a project likely to be well known by my readers
+is Mark Shuttleworth's founding of the Ubuntu project. In his wiki page, under
+"Why are you funding Ubuntu, instead of giving the money to Debian?" he writes:
+
+> And finally, it seems to me that the hard part is not making funds available,
+> its allocating them to people and projects. I could easily write a cheque to
+> SPI, Inc, for the same amount that I've invested in Ubuntu. But who would
+> decide how that money was spent? Have you actually read the financial
+> statements of SPI, Inc, over the past few years?"
+
+Instead Mark chose to start Ubuntu as a paragon, demonstrating how changes might
+improve Debian through example, probably expecting to remain a small unpopular
+beacon on the hill. There were a number of things wrong with Debian at the time,
+and I think Ubuntu rapid popularity helped light a fire underneath them at a
+time when some Debian people were thinking "So what if we're losing users to
+Gentoo? Gentoo can have those idiots." XKCD has a tongue-in-cheek examination of
+why that line of thought is wrong.
+
 To that end, several people were hired and a company formed. Lots of **time** 
 was spent picking who would be hired, what would be done, and explaining what 
 was broken in Debian and how Ubuntu would work differently. 
