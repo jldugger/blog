@@ -91,9 +91,9 @@ Sensor Bar][9] for my [Wiimote+Ubuntu][10] setup. Mission accomplished.
 
    [3]: http://kits.sparklelabs.com/
 
-   [4]: //pwnguin.net/photos/sparkle_labs_kit_thumbnail.jpg
+   [4]: //pwnguin.net/media/photologue/photos/cache/sparkle_labs_kit_thumbnail.jpg
 
-   [5]: //pwnguin.net/photos/sparkle_labs_kit.jpg
+   [5]: //pwnguin.net/media/photologue/photos/sparkle_labs_kit.jpg
 
    [6]: http://www.sparklelabs.com/v2/work.php
 

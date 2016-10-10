@@ -62,9 +62,9 @@ easier to comprehend!
 
    [3]: http://sourceforge.net/projects/schemaspy/files/
 
-   [4]: //pwnguin.net/albums/d/795-2/relationships_implied_compact.png
+   [4]: //pwnguin.net/media/photologue/photos/cache/relationships_implied_compact_display.png
 
-   [5]: //pwnguin.net/albums/v/blog/relationships_implied_compact.png.html
+   [5]: //pwnguin.net/albums/photologue/photo/banshee-db-schema/
 
    [6]: http://www.sqlite.org/faq.html#q26
 
