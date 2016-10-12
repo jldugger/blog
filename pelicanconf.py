@@ -2,7 +2,7 @@
 AUTHOR = u'Justin Dugger'
 SITENAME = u"Justin Dugger" 
 # SITESUBTITLE = 'a blog of heartbreaking genius and staggering work'
-SITEURL = '//pwnguin.net'
+SITEURL = 'http://pwnguin.net'
 
 PATH = './content/'
 OUTPUT_PATH = "/var/www/www.pwnguin.net/"
