@@ -1,7 +1,7 @@
 Title: Don't let the MSRP fool you
 Date: 2009-11-20
 
-I ordered up a [Nokia N900][1]![][2] the other day, and I have to say the
+I ordered up a [Nokia N900][1] the other day, and I have to say the
 preorder market for it is strange. Or perhaps, I don't participate in
 preorders often enough to know that this is common.
 
@@ -24,7 +24,4 @@ for customer loyalty cards, as I'm tired of carrying around a billion bar
 codes in my wallet. Maybe I should bug a friend of mine with Android to show
 me how that one works.
 
-   [1]: http://www.amazon.com/gp/product/B002OB49SW?ie=UTF8&tag=jlduggesblog-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002OB49SW
-
-   [2]: http://www.assoc-amazon.com/e/ir?t=jlduggesblog-20&l=as2&o=1&a=B002OB49SW
-
+   [1]: http://amzn.to/2e8xn0G

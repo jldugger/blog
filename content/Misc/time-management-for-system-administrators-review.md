@@ -20,7 +20,7 @@ look around the office, there's few people I can look to for advice on the
 subject of time management. Some people stick in the office till 7PM, and
 others let unproductive committee meetings dominate their work day. But I
 recall a mantra: "to change the world, first change with yourself." So I
-decided to pick up [Time Management for System Administrators][3]![][4] and
+decided to pick up [Time Management for System Administrators][3] and
 give it a shot.
 
 ### About the Author
@@ -138,9 +138,7 @@ Administrators review
 
    [2]: http://ask.metafilter.com/151380/Youre-harshing-my-flow-manager
 
-   [3]: http://www.amazon.com/gp/product/0596007833?ie=UTF8&tag=jlduggesblog-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0596007833
-
-   [4]: http://www.assoc-amazon.com/e/ir?t=jlduggesblog-20&l=as2&o=1&a=0596007833
+   [3]: http://amzn.to/2eiqo3H
 
    [5]: http://en.wikipedia.org/wiki/Large_Installation_System_Administration_Conference
 

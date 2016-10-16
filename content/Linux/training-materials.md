@@ -6,7 +6,7 @@ my job. [VTC][1] offers a lot of streaming video tutorials on various
 software. I decided to search for Ubuntu and one series showed up. Charles
 Griffen authored and published these video tutorials, and they're available
 from a wide array of sources. Amazon retails a DVD version for
-[$99.95][2]![][3].
+[$99.95][2].
 
 To inform the broader Ubuntu community and to learn from the mistakes of
 others, I've decided to publish a critique of [Charles Griffin's Ubuntu
@@ -104,9 +104,7 @@ upon the works of others, and find ways to cope with the high rate of change!
 
    [1]: http://vtc.com
 
-   [2]: http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FUbuntu-Linux-VTC-Training-CD%2Fdp%2F1933736682&tag=jlduggesblog-20&linkCode=ur2&camp=1789&creative=9325
-
-   [3]: http://www.assoc-amazon.com/e/ir?t=jlduggesblog-20&l=ur2&o=1
+   [2]: http://amzn.to/2dFHhW3
 
    [4]: http://www.vtc.com/products/Ubuntu-Linux-tutorials.htm
 

@@ -12,7 +12,7 @@ XML, starts the conversion filter, and passes the XML over stdin. The filter
 prints a converted XML file back to Liferea over stdout, and which happily
 displays the new RSS feed. For the graphic minded:
 
-![][3]
+![liferea conversion filter diagram][3]
 
 A [small repository of conversion filters][4] has been started, mainly driven
 by a different, command line driven RSS reader, snownews. Most published
@@ -56,7 +56,7 @@ feed. That's accomplished with the ed -d option.
 
 So now I just create a new subscription, and put the command in the box:
 
-![][8]
+![liferea subscription properties dialog][8]
 
 The result is a one-liner that puts the Quotes Uncovered series to pasture.
 It's tempting to UNIX pipes to build more complicated filters, but I'm told

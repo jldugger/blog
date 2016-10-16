@@ -41,7 +41,7 @@ Windows builds of graphViz appear to do a poor job of rendering, but I like
 the color coding of indexes and keys, and how the lines relate specific
 fields:
 
-[![][5]][6]
+[![schema diagram for library database][5]][6]
 
 The above diagram format is fairly handy (but rendered poorly; Ubuntu's
 graphviz does a better job) when the schema is rational. In my case, there
@@ -92,7 +92,7 @@ printing:
 `sqlt-graph -c --natural-join --from=SQLite -t svg -o liferea_schema.svg liferea.sql`
 
 
- ![png conversion for the web][13]
+ ![schema diagram for liferea database][13]
 
 You can then load that up in Inkscape and target whatever paper you've got or
 tweak the diagram. We have some 11x17 ledger paper at work that showcases

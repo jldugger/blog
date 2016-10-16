@@ -5,7 +5,7 @@ I know there's tons of applications of the [last post][1], but I thought there
 wasn't much in the way of GPL'd implementations. Today, I saw this awesome
 screenshot, [from][2] the audio-visual program [CLAM][3]:
 
-![][4]
+![wiring diagram of audio processing network][4]
 
 The above comes from their Qt based [Network Editor][5] application. This
 is hardly unique among audio applications -- I recall seeing graphEdit years

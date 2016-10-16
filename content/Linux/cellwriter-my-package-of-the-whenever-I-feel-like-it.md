@@ -69,7 +69,7 @@ impromptu [forum as bug tracker on Risujin][9].
 
 You can easily install CellWriter in Hardy or Intrepid:
 
-![][10]
+![add/remove Application dialog][10]
 
 Or you can install it in Debian with
 

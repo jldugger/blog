@@ -29,7 +29,7 @@ on a single project like an AM radio. This kit, however, is described as a
 "curated selection of parts". It comes with a breadboard and lot of just
 normal parts, which is great.
 
-[![][4]][5]
+[![neat papercraft organizer][4]][5]
 
 The picture does a better job explaining what's in it than I can. All of the
 basics are present: resistors, capacitors, diodes, buttons, LEDs, wires. It

@@ -37,7 +37,7 @@ following command line to diagram Banshee's database (YMMV):
 
 The diagram output:
 
-[![][4]][5]
+[![schema diagram for Banshee database][4]][5]
 
 There's more to the output than just a diagram, like a clickmap to browse
 individual table definitions, and warnings about ["Columns that are flagged as

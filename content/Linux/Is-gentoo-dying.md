@@ -22,7 +22,7 @@ space while Gentoo stagnates. I'm reminded of the current 5-a-day discussion;
 there's a certain amount of danger to blindly trusting metrics. This Google
 Trend shows ["Ubuntu" approaching "Dell":][3]
 
-![][4]
+![comparison of gentoo, ubnutu and dell over time][4]
 
 >(Orange = Dell; Red = Ubuntu; Blue = Gentoo) <p>
 

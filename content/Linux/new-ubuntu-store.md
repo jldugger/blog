@@ -16,8 +16,6 @@ their store.
 
 One product suggestion: [Aluminum case badges.][8]
 
-![][9]
-
    [1]: //pwnguin.net/ubuntu-gear.html
 
    [2]: http://www.ubuntu.com/news/us-based-shop
@@ -33,6 +31,3 @@ One product suggestion: [Aluminum case badges.][8]
    [7]: http://en.wikipedia.org/wiki/Self-addressed_stamped_envelope
 
    [8]: https://wiki.ubuntu.com/MassachusettsTeam/Projects/AluminiumCaseBadges
-
-   [9]: http://www.cis.ksu.edu/~jld5445/ubcd.png
-
