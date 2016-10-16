@@ -1,7 +1,7 @@
 Title: Coders at Work book review
 Date: 2010-03-28
 
-I finished up [Coders at Work][1]![][2] today, having received it from the
+I finished up [Coders at Work][1] today, having received it from the
 [local library][3] only recently (I need to figure out what magical data
 source people use to put these books on reserve so early!)
 
@@ -52,9 +52,7 @@ _Coders at Work_ is a pretty good read. You can easily read just the
 interviews that interest you and not miss anything for it. If you work in the
 field, consider picking it up it; makes for good night reading material.
 
-   [1]: http://www.amazon.com/gp/product/1430219483?ie=UTF8&tag=jlduggesblog-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1430219483
-
-   [2]: http://www.assoc-amazon.com/e/ir?t=jlduggesblog-20&l=as2&o=1&a=1430219483
+   [1]: http://amzn.to/2ejUe9r
 
    [3]: http://www.jocolibrary.org/
 

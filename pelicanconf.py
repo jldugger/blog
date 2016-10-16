@@ -5,7 +5,7 @@ SITENAME = u"Justin Dugger"
 SITEURL = 'http://pwnguin.net'
 
 PATH = './content/'
-OUTPUT_PATH = "/var/www/www.pwnguin.net/"
+OUTPUT_PATH = "./output"
 PDF_GENERATOR = False
 # PDF_PROCESSOR = ? #
 REVERSE_CATEGORY_ORDER = True
