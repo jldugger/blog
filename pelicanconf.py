@@ -16,8 +16,13 @@ FRONT_PAGE_ITEM_COUNT = 10
 WITH_PAGINATION = True
 DEFAULT_PAGINATION = 5
 
+#feed settings
+
 FEED_RSS = 'rss20.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+FEED_DOMAIN = SITEURL
+
+
 
 STATIC_PATHS = ["pictures",]
 
