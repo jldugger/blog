@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 AUTHOR = u'Justin Dugger'
-SITENAME = u"Justin Dugger" 
+SITENAME = u"Justin Dugger"
 # SITESUBTITLE = 'a blog of heartbreaking genius and staggering work'
 SITEURL = 'http://pwnguin.net'
 
@@ -16,15 +16,13 @@ FRONT_PAGE_ITEM_COUNT = 10
 WITH_PAGINATION = True
 DEFAULT_PAGINATION = 5
 
-#feed settings
+# feed settings
 
 FEED_RSS = 'rss20.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 FEED_DOMAIN = SITEURL
 
-
-
-STATIC_PATHS = ["pictures",]
+STATIC_PATHS = ["pictures", ]
 
 # theme settings
 THEME = "./borrowedidea/"
@@ -33,14 +31,14 @@ GOOGLE_ANALYTICS = "UA-10247293-1"
 CSS_FILE = "wide.css"
 
 # DISPLAY_PAGES_ON_MENU = True # (default)
-MENUITEMS = (('Projects','//pwnguin.net/websvn/'),
-             ('Photos','//pwnguin.net/albums/')
-            )
+MENUITEMS = (('Projects', '//pwnguin.net/websvn/'),
+             ('Photos', '//pwnguin.net/albums/')
+             )
 
 LINKS = (('John Cantrell', 'http://notsoevil.net'),
-            ('Toby Murray', 'http://ksmapper.blogspot.com/'),
-            ('sgstair', "http://blog.akkit.org/"),
-            ('zanshin',"http://zanshin.net/"),)
+         ('Toby Murray', 'http://ksmapper.blogspot.com/'),
+         ('sgstair', "http://blog.akkit.org/"),
+         ('zanshin', "http://zanshin.net/"),)
 
 SOCIAL = (('twitter', 'http://twitter.com/WildPwnguin'),
           )
@@ -48,4 +46,4 @@ SOCIAL = (('twitter', 'http://twitter.com/WildPwnguin'),
 # GITHUB_URL = ''
 # GITHUB_POSITION = "left" # (default)
 
-# TWITTER_USERNAME = '' 
+# TWITTER_USERNAME = ''
