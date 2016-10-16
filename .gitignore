@@ -13,4 +13,4 @@ htmlcov
 six-*.egg/
 *.orig
 output/
-
+.venv/
