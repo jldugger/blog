@@ -2,7 +2,7 @@ Title: Podcasts 2016
 Date: 2016-12-25
 
 Every so often, I see a podcast recommendation thread on [HN][65] / Reddit / elsewhere. Rather than repeat 
-myself, here's an annotated list of podcasts I listen to. If you're needin a great podcast Android player, I recommend
+myself, here's an annotated list of podcasts I listen to. If you're needing a great podcast Android player, I recommend
 [AntennaPod][1], which has a thriving [open source][2] community behind it. On to the list!
 
 Open Source
