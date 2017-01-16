@@ -31,7 +31,7 @@ GOOGLE_ANALYTICS = "UA-10247293-1"
 CSS_FILE = "wide.css"
 
 # DISPLAY_PAGES_ON_MENU = True # (default)
-MENUITEMS = (('Projects', '//pwnguin.net/websvn/'),
+MENUITEMS = (('Github', 'https://github.com/jldugger/'),
              ('Photos', '//pwnguin.net/albums/')
              )
 
