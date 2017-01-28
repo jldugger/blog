@@ -91,9 +91,9 @@ Sensor Bar][9] for my [Wiimote+Ubuntu][10] setup. Mission accomplished.
 
    [3]: http://kits.sparklelabs.com/
 
-   [4]: //pwnguin.net/media/photologue/photos/cache/sparkle_labs_kit_thumbnail.jpg
+   [4]: //www.pwnguin.net/media/photologue/photos/cache/sparkle_labs_kit_thumbnail.jpg
 
-   [5]: //pwnguin.net/media/photologue/photos/sparkle_labs_kit.jpg
+   [5]: //www.pwnguin.net/media/photologue/photos/sparkle_labs_kit.jpg
 
    [6]: http://www.sparklelabs.com/v2/work.php
 
@@ -103,5 +103,5 @@ Sensor Bar][9] for my [Wiimote+Ubuntu][10] setup. Mission accomplished.
 
    [9]: http://ca.rroll.net/2008/03/22/custom-built-usb-sensor-bar/
 
-   [10]: //pwnguin.net/a-cheap-media-remote.html
+   [10]: //www.pwnguin.net/a-cheap-media-remote.html
 

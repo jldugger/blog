@@ -91,7 +91,7 @@ before Jolla will get a shot at converting me. And it will be a tough sell.
 Google's Nexus line offers no contract, no carrier crapware phones, and the
 pace of updates has been incredible.
 
-   [1]: http://pwnguin.net/n900-arrival-and-notes.html
+   [1]: //www.pwnguin.net/n900-arrival-and-notes.html
 
    [2]: http://android.stackexchange.com/q/4538/1698
    

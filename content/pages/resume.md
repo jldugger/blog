@@ -3,7 +3,7 @@ Date: 2010-11-28
 
 (405) 445-4597 (google voice)
 
-Web: [pwnguin.net][2] | [LinkedIn Profile][1]
+Web: [www.pwnguin.net][2] | [LinkedIn Profile][1]
 
 ***
 
@@ -84,7 +84,7 @@ August 2005 - May 2007
 
    [1]: http:/www.linkedin.com/in/justindugger
 
-   [2]: //pwnguin.net/
+   [2]: //www.pwnguin.net/
 
    [3]: http://www.ome.k-state.edu/
 

@@ -108,7 +108,7 @@ and save the money.
 
    [2]: http://www.cis.upenn.edu/~bcpierce/unison/
 
-   [3]: //pwnguin.net/weave-synchronization.html
+   [3]: //www.pwnguin.net/weave-synchronization.html
 
    [4]: http://wiki.maemo.org/Sync
 

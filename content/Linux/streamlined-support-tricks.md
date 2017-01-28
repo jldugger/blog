@@ -136,7 +136,7 @@ given you some ideas on how to target specific support request topics, and
 save yourself some time wading through noisy communication channels. Helping
 out doesn't have to be an avalanche of data!
 
-   [1]: //pwnguin.net/training-materials.html
+   [1]: //www.pwnguin.net/training-materials.html
 
    [2]: http://launchpad.net/ubuntu
 

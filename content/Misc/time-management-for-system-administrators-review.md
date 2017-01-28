@@ -134,7 +134,7 @@ inclusion of UserFriendly clips, if you're a UNIX system administrator this
 book is a way great jump start your own routine. Time Management for System
 Administrators review
 
-   [1]: //pwnguin.net/coders-at-work-book-review.html
+   [1]: //www.pwnguin.net/coders-at-work-book-review.html
 
    [2]: http://ask.metafilter.com/151380/Youre-harshing-my-flow-manager
 

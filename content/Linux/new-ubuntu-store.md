@@ -16,7 +16,7 @@ their store.
 
 One product suggestion: [Aluminum case badges.][8]
 
-   [1]: //pwnguin.net/ubuntu-gear.html
+   [1]: //www.pwnguin.net/ubuntu-gear.html
 
    [2]: http://www.ubuntu.com/news/us-based-shop
 
