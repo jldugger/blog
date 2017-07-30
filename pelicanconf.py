@@ -40,7 +40,7 @@ LINKS = (('John Cantrell', 'http://notsoevil.net'),
          ('zanshin', "http://zanshin.net/"),)
 
 SOCIAL = (('twitter', 'http://twitter.com/WildPwnguin'),
-          ('linkedin','http:/www.linkedin.com/in/justindugger'),
+          ('linkedin', 'http:/www.linkedin.com/in/justindugger'),
           )
 
 # GITHUB_URL = 'https://github.com/jldugger'
