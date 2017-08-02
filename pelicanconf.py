@@ -21,7 +21,7 @@ FEED_RSS = 'rss20.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 FEED_DOMAIN = SITEURL
 
-STATIC_PATHS = ["pictures", ]
+STATIC_PATHS = ['pictures', 'pdfs']
 
 # theme settings
 THEME = "./borrowedidea/"
@@ -29,9 +29,10 @@ DISQUS_SITENAME = "jlduggersblog"
 GOOGLE_ANALYTICS = "UA-10247293-1"
 CSS_FILE = "wide.css"
 
-# DISPLAY_PAGES_ON_MENU = True # (default)
+DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (('Github', 'https://github.com/jldugger/'),
-             ('Photos', '//www.pwnguin.net/albums/')
+             ('Photos', '//www.pwnguin.net/albums/'),
+             ('Resume','https://pwnguin.net/pdfs/resume.pdf')
              )
 
 LINKS = (('John Cantrell', 'http://notsoevil.net'),
