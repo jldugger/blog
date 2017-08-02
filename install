@@ -5,7 +5,7 @@ pelican
 
 # minify css
 
-for css in `find ./output/theme/css/ -name *.css`
+while IFS= read -r -d '' css
 do
-	cat $css | cssmin | sponge $css
-done
+    cssmin < "$css" | sponge "$css"
+done <   <(find ./output/theme/css/ -name '*.css')
