@@ -1,0 +1,11 @@
+language: python
+# cache dependencies
+cache: pip
+# install deps
+install:
+  - pip install --upgrade pip
+  - pip install -r requirements/requirements.txt
+notifications:
+  email: true
+script:
+- pelican
