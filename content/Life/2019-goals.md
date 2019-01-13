@@ -11,7 +11,7 @@ public.
 4. Start attending tech meetups in the bay area.
 5. Consolidate retirement accounts
 
-I want to adopt Anki as part of a lifetime learning framework. It's more
+I want to adopt [Anki][2] as part of a lifetime learning framework. It's more
 commonly used for learning languages, and cramming for med school, but it should be
 good for other purposes. No more forgetting birthdays, or obscure core library
 functions! I've got a decent start at it, but due to unfortunate computer repair
@@ -34,3 +34,4 @@ tedious to track individually. It's probably pretty easy to call up and get this
 sorted, so this is a reminder to pull off the social anxiety band-aid.
 
 [1]: //www.pwnguin.net/2011-goal-review-and-2012-goals.html
+[2]: https://apps.ankiweb.net/
