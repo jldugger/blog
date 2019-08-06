@@ -21,7 +21,11 @@ FEED_RSS = 'rss20.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 FEED_DOMAIN = SITEURL
 
-STATIC_PATHS = ['pictures', 'pdfs']
+STATIC_PATHS = ['pictures', 'pdfs', 'extra/ads.txt']
+
+EXTRA_PATH_METADATA = {
+    'extra/ads.txt': {'path': 'ads.txt'},
+    }
 
 # theme settings
 THEME = "./borrowedidea/"
