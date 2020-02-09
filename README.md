@@ -1,3 +1,5 @@
+[![Travis CI](https://travis-ci.com/jldugger/blog.svg?branch=master)](https://travis-ci.com/jldugger/blog)
+
 Pelican powered blog
 
 INSTALLING
